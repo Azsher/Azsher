@@ -4,6 +4,9 @@
 
 🔹 Hands-on experience with Make.com, Google Workspace & Microsoft 365, automating real business workflows
 🔹 Skilled in full-stack web development with Angular, Vue, .NET, Spring Boot, and RESTful APIs</p>
+
+---
+
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRoaWVpdXhhdHY0cXN1dXc3Z3AzdHJpMTJoN2g3ZGFsdzExczRmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif" />
 
@@ -16,6 +19,8 @@ I am a software engineering student in my 8th cycle, passionate about creating p
 - ✔ Ask me anything about automation, modern frameworks, or fullstack development. I'm happy to help and share my knowledge!<br>
 - 🏀 Outside of coding, I enjoy playing basketball, 🎮 Valorant, 🥁 playing drums, and discovering new 🎵 music.
 - 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">oscar.antayhuac@gmail.com</a>
+
+---
 
 ## My Skills Include
 
@@ -49,6 +54,8 @@ I am a software engineering student in my 8th cycle, passionate about creating p
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </span>
+
+---
 
 ## Check out my Social Media
 
