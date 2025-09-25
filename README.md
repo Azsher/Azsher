@@ -10,7 +10,7 @@ I am a software engineering student in my 8th cycle, passionate about creating p
 - 🤜 Looking to collaborate in open source projects related to web development, automation, or data analysis.
 - ✔ Ask me anything about automation, modern frameworks, or fullstack development. I'm happy to help and share my knowledge!<br>
 - 🏀 Outside of coding, I enjoy playing basketball, 🎮 Valorant, 🥁 playing drums, and discovering new 🎵 music.
-- 📫 Reach out to me at: <a href="voscar.antayhuac@gmail.com">oscar.antayhuac@gmail.com</a>
+- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">oscar.antayhuac@gmail.com</a>
 
 ## My Skills Include
 
