@@ -1,4 +1,9 @@
 <h1 align="center"><b>Hi , I'm Azsher </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p>💻 Junior RPA Automation Developer & Software Engineering Student <br>
+🌐 Passionate about Web Development and building practical, innovative solutions
+
+🔹 Hands-on experience with Make.com, Google Workspace & Microsoft 365, automating real business workflows
+🔹 Skilled in full-stack web development with Angular, Vue, .NET, Spring Boot, and RESTful APIs</p>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRoaWVpdXhhdHY0cXN1dXc3Z3AzdHJpMTJoN2g3ZGFsdzExczRmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif" />
 
