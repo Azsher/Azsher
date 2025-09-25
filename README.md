@@ -64,4 +64,3 @@ I am a software engineering student in my 8th cycle, passionate about creating p
 [![](https://github-readme-stats.vercel.app/api?username=Azsher&show_icons=true&theme=dark&hide_border=true&locale=en)](https://github.com/Azsher)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Azsher&theme=dark)](https://github.com/Azsher)
 </div>
-
